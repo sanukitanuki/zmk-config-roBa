@@ -50,7 +50,7 @@
     pinctrl-1 = <&spi0_sleep>;
     pinctrl-names = "default", "sleep";
     cs-gpios = <&gpio0 9 GPIO_ACTIVE_LOW>;
-     };
+
     trackball: trackball@0 {
         status = "okay";
         compatible = "pixart,pmw3610";
@@ -70,9 +70,9 @@
            tick = <10>;
            wait-ms = <5>;
            tap-ms = <5>;
-     };
+           };
 
-       volume {
+        volume {
            layers = <2>;
            bindings =
                 <&none>,
@@ -82,6 +82,7 @@
 
            wait-ms = <5>;
            tap-ms = <5>;
+           };
        };
 };
 
