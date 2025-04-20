@@ -81,7 +81,7 @@
         FUNCTION {
             bindings = <
 &kp Q             &kp LS(NUMBER_7)  &kp LS(NUMBER_8)  &kp LS(NUMBER_9)  &kp LS(NUMBER_0)                                &kp AT          &kp RIGHT_BRACKET  &kp BACKSLASH     &kp RS(SLASH)  &kp P
-&kp LEFT_CONTROL  &kp LS(NUMBER_4)  &kp LS(NUMBER_5)  &kp LS(NUMBER_6)  &kp LS(NUMBER_1)  &trans         &kp F13        &kp SEMICOLON   &kp RS(NUMBER_8)   &kp RS(NUMBER_9)  &kp DOLLAR     &kp ENTER
+&kp LEFT_CONTROL  &kp LS(NUMBER_4)  &kp LS(NUMBER_5)  &kp LS(NUMBER_6)  &kp LS(NUMBER_1)  &trans         &kp KP_SLASH   &kp SEMICOLON   &kp RS(NUMBER_8)   &kp RS(NUMBER_9)  &kp DOLLAR     &kp ENTER
 &kp LEFT_SHIFT    &kp LS(NUMBER_1)  &kp LS(NUMBER_2)  &kp LS(NUMBER_3)  &kp LS(SLASH)     &kp MINUS      &kp RS(EQUAL)  &kp APOSTROPHE  &kp KP_COMMA       &kp PERIOD        &trans         &kp RCTRL
 &kp DEL           &kp LEFT_WIN      &kp LEFT_ALT      &trans            &trans            &trans         &trans         &trans                                                              &kp ESCAPE
             >;
