@@ -101,7 +101,7 @@
             bindings = <
 &kp Q           &kp F7        &kp F8        &kp F9  &kp F10                                &kp LEFT_BRACKET  &kp RIGHT_BRACKET       &kp BACKSLASH   &kp INT_YEN              &kp P
 &kp LCTRL       &kp F4        &kp F5        &kp F6  &kp F11  &trans         &kp KP_DIVIDE  &kp SEMI          &kp HOME                &kp UP_ARROW    &kp DOLLAR               &kp ENTER
-&kp LEFT_SHIFT  &kp F2        &kp F2        &kp F3  &kp F12  &kp MINUS      &kp RS(SEMI)   &kp APOSTROPHE    &kp RS(RG(LEFT_ARROW))  &kp DOWN_ARROW  &kp RS(RG(RIGHT_ARROW))  &kp RCTRL
+&kp LEFT_SHIFT  &kp LC(F1)    &kp F2        &kp F3  &kp F12  &kp MINUS      &kp RS(SEMI)   &kp APOSTROPHE    &kp RS(RG(LEFT_ARROW))  &kp DOWN_ARROW  &kp RS(RG(RIGHT_ARROW))  &kp RCTRL
 &kp DEL         &kp LEFT_WIN  &kp LEFT_ALT  &trans  &trans   &trans         &trans         &trans                                                                             &kp ESCAPE
             >;
 
